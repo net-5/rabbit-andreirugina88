@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TheRabbit
+namespace MyAwesomeRabbit
 {
     //Model the Rabbit class knowing that:
 
