@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TheRabbit
+namespace MyAwesomeRabbit
 {
     class Program
     {
