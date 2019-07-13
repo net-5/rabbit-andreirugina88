@@ -14,23 +14,23 @@ namespace MyAwesomeRabbit
 
     public enum Eyes
     {
-        blue,
-        red,
-        black
+        Blue,
+        Red,
+        Black
     }
 
     public enum Fur
     {
-        white,
-        brown,
-        black,
-        grey
+        White,
+        Brown,
+        Black,
+        Grey
     }
 
     public enum Gender
     {
-        male,
-        female
+        Male,
+        Female
     }
     public class Rabbit
     {
