@@ -26,8 +26,6 @@ namespace MyAwesomeRabbit
             Console.WriteLine(myRabbit.Eating());
             Console.WriteLine();
 
-
-
         }
     }
 } 
