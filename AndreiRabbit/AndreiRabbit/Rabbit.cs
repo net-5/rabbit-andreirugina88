@@ -14,9 +14,9 @@ namespace MyAwesomeRabbit
 
     public enum Eyes
     {
-        blue,
-        red,
-        black
+        Blue,
+        Red,
+        Black
     }
 
     public enum Fur
