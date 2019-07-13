@@ -13,7 +13,7 @@ namespace MyAwesomeRabbit
         //We also know that a rabbit is a mammal that moves, sleeps and eats.
         static void Main(string[] args)
         {
-            Rabbit myRabbit = new Rabbit(Eyes.red, Fur.white, Gender.male, new DateTime(2018, 05, 05));
+            Rabbit myRabbit = new Rabbit(Eyes.Red, Fur.White, Gender.Male, new DateTime(2018, 05, 05));
 
             Console.WriteLine(myRabbit.MyDescription());
             Console.WriteLine();
